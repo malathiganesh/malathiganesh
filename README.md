@@ -3,6 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malathiganesh&label=Profile%20views&color=0e75b6&style=flat" alt="malathiganesh" /> </p>
+<img align="right= "summa" width="400" src="https://miro.medium.com/max/720/1*qdAW1TjCN57h1lbuuzvchg.gif" />
 
 - 🔭 I’m currently working on *Reactjs*
 
