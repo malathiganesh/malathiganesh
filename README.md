@@ -5,11 +5,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malathiganesh&label=Profile%20views&color=0e75b6&style=flat" alt="malathiganesh" /> </p>
 <img align="right"  alt= "summa" width="400" src="https://miro.medium.com/max/720/1*qdAW1TjCN57h1lbuuzvchg.gif" />
 
-- 🔭 I’m currently working on *Reactjs*
 
 - 🌱 I’m currently learning *React js*
 
-- 💬 Ask me about *HTML, CSS, Java Script, React JS*
+- 💬 Ask me about *HTML, CSS, Java Script, React JS, SQL*
 
 - 📫 How to reach me *hamish1617@gmail.com*
 
